@@ -59,3 +59,10 @@ php artisan migrate --seed
 ### 6. Serve the app
 
 using xampp, herd, or wamp
+
+\| Variable | Purpose |
+
+> \|---|---|
+> \| APP_KEY | Laravel application key |
+> \| JWT_SECRET | Secret for JWT token generation |
+> \| DB_HOST, etc. | MySQL connection info |
